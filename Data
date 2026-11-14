@@ -1,6 +1,1 @@
-import kagglehub
 
-# Download latest version
-path = kagglehub.dataset_download("algorismus/adventure-works-in-excel-tables")
-
-print("Path to dataset files:", path)
